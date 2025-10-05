@@ -1,0 +1,13 @@
+# Standard-ISO-Liste (Name|URL)
+# Kommentare mit # und leere Zeilen werden ignoriert
+Arch Linux|https://ftp.halifax.rwth-aachen.de/archlinux/iso/2025.10.01/archlinux-2025.10.01-x86_64.iso
+Kali Linux|https://cdimage.kali.org/kali-2025.3/kali-linux-2025.3-installer-amd64.iso
+Ubuntu Server|https://releases.ubuntu.com/24.04.3/ubuntu-24.04.3-live-server-amd64.iso
+Debian Live|https://ftp.halifax.rwth-aachen.de/debian-cd/13.1.0-live/amd64/iso-hybrid/debian-live-13.1.0-amd64-standard.iso
+Tails|https://download.tails.net/tails/stable/tails-amd64-7.0/tails-amd64-7.0.img
+Rocky Linux|https://download.rockylinux.org/pub/rocky/10/isos/aarch64/Rocky-10.0-aarch64-dvd1.iso
+Linux Mint|https://mirror.netcologne.de/linuxmint/iso/stable/22.2/linuxmint-22.2-cinnamon-64bit.iso
+Parrot Security|https://deb.parrot.sh/parrot/iso/6.4/Parrot-security-6.4_amd64.iso
+Elementary OS|https://fra1.dl.elementary.io/download/MTc1OTY3NjM3MQ==/elementaryos-8.0-stable-amd64.20250902rc.iso
+EndeavourOS|https://mirror.alpix.eu/endeavouros/iso/EndeavourOS_Mercury-Neo-2025.03.19.iso
+
